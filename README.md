@@ -100,11 +100,6 @@ Epoch 15/15
 <img src="https://github.com/user-attachments/assets/79672fd2-9f98-4c9c-b737-929790cdbdcf"
   width=480
   height=480>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/97957567-6003-4c15-843c-d0cee01dae21"
-  width=480
-  height=480>
 <hr>
 <strong>Special Thanks</strong>: I want to give a huge thanks to Ibrahim Serouis on Kaggle for creating the One Piece character image data set!
 </div>
